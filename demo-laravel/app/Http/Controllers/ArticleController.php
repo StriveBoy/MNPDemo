@@ -2,7 +2,7 @@
 /**
  * 文章类控制器
  * @author   dabing
- * @version  1.0.1
+ * @version  1.0
  */
 
 namespace App\Http\Controllers;
